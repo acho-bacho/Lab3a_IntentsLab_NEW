@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\projects\\android\\Lab3a_IntentsLab_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loader_activity.xml",
+        "source": "C:\\projects\\android\\Lab3a_IntentsLab_NEW\\app\\src\\main\\res\\layout\\activity_loader_activity.xml"
+    },
+    {
+        "merged": "C:\\projects\\android\\Lab3a_IntentsLab_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout\\explicitly_loaded_activity.xml",
+        "source": "C:\\projects\\android\\Lab3a_IntentsLab_NEW\\app\\src\\main\\res\\layout\\explicitly_loaded_activity.xml"
+    }
+]
